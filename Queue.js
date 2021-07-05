@@ -13,7 +13,7 @@ class Queue{
         if(this.isEmpty()){
             return "Queue is empty";
         }
-     return this.items.shift()
+     return this.items.shift() // this returns the first character
     }
     peek(){
         if(this.isEmpty()){
