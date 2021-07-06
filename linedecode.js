@@ -33,3 +33,5 @@ const executor=(ar)=>{
 }
 
 executor([1,2,3,7,2,1])
+
+// second solution - using sequence
